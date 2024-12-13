@@ -1,0 +1,50 @@
+.filters-row {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.filter-select, 
+.filter-input {
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    flex: 1;
+    min-width: 200px;
+}
+
+.filter-select {
+    width: auto;
+}
+
+.filter-input {
+    width: auto;
+}
+
+.filter-row {
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .filters-row {
+        flex-wrap: wrap;
+    }
+    .filter-select, 
+    .filter-input {
+        min-width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+.modal-dialog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: calc(100% - 1rem); 
+    margin: 1.75rem auto; 
+}
+
+.modal-content {
+    border-radius: 0.3rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}

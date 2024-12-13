@@ -1,0 +1,79 @@
+.formContainer {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.formGroup {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column; 
+}
+
+.formGroup.sideBySide {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; 
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.formGroup input[type="text"],
+.formGroup input[type="number"],
+.formGroup select,
+.formGroup input[type="checkbox"] {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.formGroup input[type="checkbox"] {
+  width: auto;
+  margin-right: 10px;
+}
+
+.submitButton,
+.ResetButton,
+.ListButton {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.submitButton:hover,
+.ResetButton:hover,
+.ListButton:hover {
+  background-color: #0056b3;
+}
+
+
+.error {
+  color: red;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+.requiredAsterisk {
+  color: red;
+  margin-left: 5px;
+}
+
+@media (max-width: 768px) {
+  .formGroup {
+    flex-direction: column;
+  }
+}

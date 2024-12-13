@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: .  # Context is set to the root directory
+      dockerfile: Dockerfile  # Path to the frontend Dockerfile (located in the root directory)
+    ports:
+      - "3001:3001"
+    networks:
+      - mynetwork
+
+  backend:
+    build:
+      context: .  # Context is set to the root directory
+      dockerfile: server/Dockerfile  # Path to the backend Dockerfile inside the 'server' folder
+    ports:
+      - "5000:5000"
+    environment:
+      - DB_HOST=db
+      - DB_USER=root
+      - DB_PASS=admin@1A
+      - DB_NAME=companyit
+    depends_on:
+      - db
+    networks:
+      - mynetwork
+
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: admin@1A
+      MYSQL_DATABASE: companyit
+    volumes:
+      - db-data:/var/lib/mysql
+    ports:
+      - "3307:3306"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
+
+volumes:
+  db-data:

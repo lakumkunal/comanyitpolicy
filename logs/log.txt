@@ -1,0 +1,132 @@
+2024-09-11T12:05:56.935Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T12:26:37.004Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T12:26:37.246Z - [connected to the database] [undefined] undefined
+2024-09-11T13:29:20.194Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T13:29:20.313Z - [Database Connection] [Success] Connected to the database
+2024-09-11T13:54:31.372Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T13:54:31.738Z - [Database Connection] [Success] Connected to the database
+2024-09-11T13:54:31.741Z - [connected to the database] [undefined] undefined
+2024-09-11T14:02:04.370Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:02:04.504Z - [Database Connection] [Success] Connected to the database
+2024-09-11T14:19:09.699Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:19:09.796Z - [Database Connection] [Success] Connected to the database
+2024-09-11T14:23:56.499Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:23:56.543Z - [Database Connection] [Success] Connected to the database
+2024-09-11T14:27:06.593Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:27:07.692Z - [Database Connection] [Success] Connected to the database
+2024-09-11T14:29:39.008Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:29:39.266Z - [Database Connection] [Success] Connected to the database
+2024-09-11T14:35:34.648Z - [Server Start] [Success] Server running on port 5000
+2024-09-11T14:35:34.776Z - [Database Connection] [Success] Connected to the database
+2024-09-12T02:55:26.690Z - [Server Start] [Success] Server running on port 5000
+2024-09-12T02:55:27.755Z - [Database Connection] [Success] Connected to the database
+2024-09-12T03:13:30.334Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T03:13:30.336Z - [POST /api/postcompanyitpolicy] [Error] 500
+2024-09-12T03:16:49.690Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T03:16:49.691Z - [POST /api/postcompanyitpolicy] [Error] 500
+2024-09-12T03:17:16.030Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T03:17:16.031Z - [POST /api/postcompanyitpolicy] [Error] 500
+2024-09-12T03:42:12.755Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T03:42:13.222Z - [POST /api/postcompanyitpolicy] [Error] 500
+2024-09-12T03:42:47.706Z - [GET /api/getcompanyitpolicy] [Error] 500
+2024-09-12T03:42:47.712Z - [GET /api/getcompanyitpolicy] [Error] 500
+2024-09-12T03:43:26.011Z - [GET /api/getcompanyitpolicy] [Error] 500
+2024-09-12T03:43:26.023Z - [GET /api/getcompanyitpolicy] [Error] 500
+2024-09-12T03:49:27.462Z - [Server Start] [Success] Server running on port 5000
+2024-09-12T03:49:28.277Z - [Database Connection] [Success] Connected to the database
+2024-09-12T03:49:50.319Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T03:49:51.589Z - [POST /api/postcompanyitpolicy] [Success] 200
+2024-09-12T03:54:15.962Z - [Server Start] [Success] Server running on port 5000
+2024-09-12T03:54:16.704Z - [Database Connection] [Success] Connected to the database
+2024-09-12T03:54:34.688Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T03:54:34.710Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T03:54:38.437Z - [GET /api/getcompanyitpolicy/:id] [Info] 200
+2024-09-12T03:54:38.517Z - [GET /api/getcompanyitpolicy/:id] [Success] 200
+2024-09-12T03:54:38.524Z - [GET /api/getcompanyitpolicy/:id] [Info] 200
+2024-09-12T03:54:38.538Z - [GET /api/getcompanyitpolicy/:id] [Success] 200
+2024-09-12T03:54:42.830Z - [PUT /api/EditPolicy/:id] [Info] 200
+2024-09-12T03:54:45.395Z - [PUT /api/EditPolicy/:id] [Success] 200
+2024-09-12T03:54:59.031Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T03:54:59.041Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T03:55:03.629Z - [POST /api/suspendPolicy/:id] [Info] 200
+2024-09-12T03:55:04.284Z - [POST /api/suspendPolicy/:id] [Success] 200
+2024-09-12T14:30:24.662Z - [Server Start] [Success] Server running on port 5000
+2024-09-12T14:30:24.955Z - [Database Connection] [Success] Connected to the database
+2024-09-12T16:30:40.782Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T16:30:41.170Z - [POST /api/postcompanyitpolicy] [Error] 400
+2024-09-12T16:30:56.081Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T16:30:56.505Z - [GET /api/getcompanyitpolicy] [Success] 200
+2024-09-12T16:32:38.022Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T16:32:39.607Z - [POST /api/postcompanyitpolicy] [Success] 200
+2024-09-12T16:35:16.131Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-12T16:35:16.300Z - [POST /api/postcompanyitpolicy] [Success] 200
+2024-09-13T07:08:42.793Z - [Server Start] [Success] Server running on port 5000
+2024-09-13T07:08:53.249Z - [Database Connection] [Success] Connected to the database
+2024-09-13T07:44:30.813Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-13T07:44:32.609Z - [POST /api/postcompanyitpolicy] [Success] 200
+2024-09-13T07:53:50.060Z - [POST /api/postcompanyitpolicy] [Info] 200
+2024-09-13T07:53:51.575Z - [POST /api/postcompanyitpolicy] [Success] 200
+[9/13/2024 13:30:55] - [Server Start] [Success] [Server running on port 5000] undefined
+[9/13/2024 13:30:56] - [Database Connection] [Success] [Connected to the database] undefined
+[9/13/2024 13:31:28] - [POST /api/postcompanyitpolicy] [Info] [200] Received data for creating a policy
+[9/13/2024 13:31:29] - [POST /api/postcompanyitpolicy] [Success] [200] Policy inserted successfully
+[9/13/2024 13:39:39] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 13:39:39] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 13:40:14] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 62
+[9/13/2024 13:40:15] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 13:40:15] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 62
+[9/13/2024 13:40:15] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 13:40:20] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy with ID: 62
+[9/13/2024 13:40:21] - [PUT /api/EditPolicy/:id] [Success] [200] Policy updated successfully for ID: 62
+[9/13/2024 13:40:51] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 13:40:51] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 13:40:54] - [POST /api/suspendPolicy/:id] [Info] [200] Suspending policy with ID: 62
+[9/13/2024 13:40:55] - [POST /api/suspendPolicy/:id] [Success] [200] Policy suspended for ID: 62
+[9/13/2024 13:59:40] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 14:01:05] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 14:31:49] - [Server Start] [Success] [Server running on port 5000] undefined
+[9/13/2024 14:31:49] - [Database Connection] [Success] [500] Connected to the database
+[9/13/2024 15:10:24] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:10:24] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:10:27] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 61
+[9/13/2024 15:10:27] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:10:27] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 61
+[9/13/2024 15:10:27] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:10:33] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy with ID: 61
+[9/13/2024 15:10:33] - [PUT /api/EditPolicy/:id] [Success] [200] Policy updated successfully for ID: 61
+[9/13/2024 15:21:54] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy with ID: 61
+[9/13/2024 15:21:54] - [PUT /api/EditPolicy/:id] [Success] [200] Policy updated successfully for ID: 61
+[9/13/2024 15:22:21] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:22:21] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:22:29] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 61
+[9/13/2024 15:22:29] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:22:29] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 61
+[9/13/2024 15:22:29] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:22:35] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy with ID: 61
+[9/13/2024 15:22:35] - [PUT /api/EditPolicy/:id] [Success] [200] Policy updated successfully for ID: 61
+[9/13/2024 15:46:29] - [Server Start] [Success] [Server running on port 5000] undefined
+[9/13/2024 15:46:29] - [Database Connection] [Success] [500] Connected to the database
+[9/13/2024 15:47:36] - [Server Start] [Success] [200] Server running on port 5000
+[9/13/2024 15:47:37] - [Database Connection] [Success] [500] Connected to the database
+[9/13/2024 15:47:56] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy test110
+[9/13/2024 15:47:57] - [PUT /api/EditPolicy/:id] [Success] [200] Policy test110 updated successfully
+[9/13/2024 15:48:23] - [Server Start] [Success] [200] Server running on port 5000
+[9/13/2024 15:48:23] - [Database Connection] [Success] [500] Connected to the database
+[9/13/2024 15:48:31] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:48:31] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:48:42] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:48:42] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:48:45] - [POST /api/suspendPolicy/:id] [Info] [200] Suspending policy undefined.
+[9/13/2024 15:48:46] - [POST /api/suspendPolicy/:id] [Success] [200] Policy undefined suspended.
+[9/13/2024 15:49:54] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 60
+[9/13/2024 15:49:55] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:49:55] - [GET /api/getcompanyitpolicy/:id] [Info] [200] Fetching policy with ID: 60
+[9/13/2024 15:49:55] - [GET /api/getcompanyitpolicy/:id] [Success] [200] Policy retrieved successfully
+[9/13/2024 15:50:00] - [PUT /api/EditPolicy/:id] [Info] [200] Updating policy test300
+[9/13/2024 15:50:00] - [PUT /api/EditPolicy/:id] [Success] [200] Policy test300 updated successfully
+[9/13/2024 15:50:18] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:50:18] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:51:15] - [POST /api/postcompanyitpolicy] [Info] [200] Received data for creating a policy
+[9/13/2024 15:51:17] - [POST /api/postcompanyitpolicy] [Success] [200] Policy inserted successfully
+[9/13/2024 15:51:19] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
+[9/13/2024 15:51:19] - [GET /api/getcompanyitpolicy] [Success] [200] Policies retrieved successfully
